@@ -53,11 +53,10 @@ A non-fungible token (NFT) marketplace is a decentralized platform that allows u
 
 
 
-## Usage 
-
-To start the NFT Marketplace, run the following command: 
-
-Then open http://localhost:3000 in your web browser. 
+## Future Work
+* Integration with other blockchains
+* Additional features
+* Improved user experience 
 
 ## License 
 
