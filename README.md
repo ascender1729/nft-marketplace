@@ -4,7 +4,7 @@ A non-fungible token (NFT) marketplace is a decentralized platform that allows u
 
 ## Installation 
 
-###To install the NFT Marketplace, follow the steps below:
+### To install the NFT Marketplace, follow the steps below:
 
 1. Install Node.js and npm: Node.js is a JavaScript runtime environment and npm is a package manager for Node.js. You can download and install both from the official Node.js website (https://nodejs.org/en/).
 
