@@ -78,8 +78,7 @@ nft-marketplace/
 │   ├── nft_auction.test.js
 │   └── nft_marketplace.test.js
 ├── truffle-config.js
-
-```
 ├── package.json
 ├── package-lock.json
 └── README.md
+```
