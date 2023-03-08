@@ -1,7 +1,9 @@
 # NFT Marketplace
 
 A non-fungible token (NFT) marketplace is a decentralized platform that allows users to buy, sell, and trade unique digital assets on the blockchain. Developing an NFT marketplace requires expertise in smart contract development, user authentication, and frontend web development.It uses Solidity for creating smart contracts, JavaScript for building the frontend, and IPFS for storing the NFT data.
-
+## Technologies Used
+|Solidity|Truffle|IPFS|React|Web3.js|MetaMask|
+|---|---|---|---|---|---|
 ## Installation 
 
 ### To install the NFT Marketplace, follow the steps below:
