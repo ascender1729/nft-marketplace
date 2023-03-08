@@ -19,7 +19,7 @@ A non-fungible token (NFT) marketplace is a decentralized platform that allows u
 
 5. Install MetaMask: MetaMask is a browser extension that allows users to interact with Ethereum applications. You can install it as a Chrome or Firefox extension from the official MetaMask website (https://metamask.io/).
 
-6.  Clone the project repository: You can clone the NFT Marketplace project repository from GitHub using the following command:
+6.  Clone the project repository: You can clone the NFT Marketplace project repository from        GitHub using the following command:
    ```bash
     git clone https://github.com/username/nft-marketplace.git
    ``` 
