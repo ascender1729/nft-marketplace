@@ -23,7 +23,7 @@ A non-fungible token (NFT) marketplace is a decentralized platform that allows u
 
 6.  Clone the project repository: You can clone the NFT Marketplace project repository from        GitHub using the following command:
    ```bash
-    git clone https://github.com/username/nft-marketplace.git
+    git clone https://github.com/ascender1729/nft-marketplace.git
    ``` 
 7. Install project dependencies: Navigate to the project directory and install the project dependencies using npm with the following command:
    ```bash
