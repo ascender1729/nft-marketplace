@@ -20,16 +20,36 @@ A non-fungible token (NFT) marketplace is a decentralized platform that allows u
 5. Install MetaMask: MetaMask is a browser extension that allows users to interact with Ethereum applications. You can install it as a Chrome or Firefox extension from the official MetaMask website (https://metamask.io/).
 
 6.  Clone the project repository: You can clone the NFT Marketplace project repository from GitHub using the following command:
-
+   ```bash
     git clone https://github.com/username/nft-marketplace.git
-
+   ``` 
 7. Install project dependencies: Navigate to the project directory and install the project dependencies using npm with the following command:
+   ```bash
     cd nft-marketplace
     npm install
+   ``` 
 
 8. Compile and migrate the smart contracts: Compile the Solidity smart contracts using Truffle with the following command:
 
+   ```bash
     truffle compile
+   ``` 
+   Then, migrate the contracts to the local blockchain using Ganache with the following command:
+   ```bash
+    truffle migrate
+   ``` 
+9. Start the IPFS daemon: Start the IPFS daemon in another terminal window with the following command:
+   ```bash
+    ipfs daemon
+   ``` 
+10. Start the frontend: Start the React frontend in another terminal window with the following command:
+   ```bash
+    npm start
+   ``` 
+   This will start the application in your browser at http://localhost:3000.
+
+
+
 
 ## Usage 
 
