@@ -38,13 +38,13 @@ A non-fungible token (NFT) marketplace is a decentralized platform that allows u
    ```bash
     truffle migrate
    ``` 
-9. Start the IPFS daemon: Start the IPFS daemon in another terminal window with the following command:
+9. Start the IPFS daemon: Start the IPFS daemon in another terminal window with the following      command:
    ```bash
     ipfs daemon
    ``` 
-10. Start the frontend: Start the React frontend in another terminal window with the following command:
+10. Start the frontend: Start the React frontend in another terminal window with the following     command:
    ```bash
-    npm start
+      npm start
    ``` 
    This will start the application in your browser at http://localhost:3000.
 
