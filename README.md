@@ -9,9 +9,9 @@ A non-fungible token (NFT) marketplace is a decentralized platform that allows u
 1. Install Node.js and npm: Node.js is a JavaScript runtime environment and npm is a package manager for Node.js. You can download and install both from the official Node.js website (https://nodejs.org/en/).
 
 2. Install Truffle: Truffle is a development framework for building Ethereum applications. You can install it globally using npm with the following command:
- ```bash
-npm install -g truffle
-``` 
+   ```bash
+    npm install -g truffle
+   ``` 
 
 3. Install Ganache: Ganache is a personal blockchain for Ethereum development. You can download and install it from the official Ganache website (https://www.trufflesuite.com/ganache).
 
