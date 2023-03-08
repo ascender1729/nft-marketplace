@@ -54,9 +54,15 @@ A non-fungible token (NFT) marketplace is a decentralized platform that allows u
 
 
 ## Future Work
-* Integration with other blockchains
-* Additional features
-* Improved user experience 
+* Integration with other blockchains: Currently, the NFT Marketplace is built on the Ethereum blockchain. However, there are other blockchains that are also being used for NFTs, such as Binance Smart Chain, Solana, and Polygon. Integrating with these blockchains could expand the user base of the marketplace and allow for a greater variety of assets to be traded.
+
+* Improved scalability: As the popularity of NFTs continues to grow, scalability becomes an increasingly important issue. The current infrastructure of the Ethereum network can lead to high gas fees and slow transaction times, which can be a barrier to entry for some users. Implementing solutions such as layer 2 scaling or other scaling technologies could improve the user experience and make the marketplace more accessible.
+
+* Additional features: There are many potential additional features that could be added to the NFT Marketplace to enhance its functionality and appeal to users. For example, adding support for auctions, bundling of multiple NFTs, or fractional ownership could provide more flexibility and variety in the types of assets that can be traded.
+
+* Improved user experience: User experience is a critical factor in the success of any marketplace. Improving the design and functionality of the marketplace to make it more intuitive, user-friendly, and visually appealing could help attract and retain users.
+
+* Enhanced security: Security is always a concern in any blockchain-based application. Further enhancements to the security measures in the NFT Marketplace, such as implementing multi-factor authentication, improving smart contract auditing, or implementing additional encryption protocols, could help ensure the safety of user funds and assets.
 
 ## License 
 
